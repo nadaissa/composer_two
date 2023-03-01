@@ -11,5 +11,7 @@
             "email": "nada-issa_student2023@wilder.school"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/mailer": "^6.2"
+    }
 }
